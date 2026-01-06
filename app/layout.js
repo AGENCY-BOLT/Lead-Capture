@@ -16,7 +16,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
         <body className={font.className}>
-          <ThemeProvider theme="light" projectId="funui_qXFjaupI8k2T5QxwWk63">
+          <ThemeProvider theme="light" projectId="">
             {children}
           </ThemeProvider>
         </body>
